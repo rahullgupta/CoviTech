@@ -1,7 +1,7 @@
 # CoviTech
-# E-Commerce Website: CoviTech
+# A website which provides necessary information regarding Covid and also helps in shopping for Covid Essentials
 
-E-Commerce Website using MySQL, PHP and Bootstrap
+E-Commerce Website made using MySQL, PHP, HTML, CSS, JavaScript and Bootstrap
 
 ## Need to work on:
 
@@ -16,7 +16,7 @@ E-Commerce Website using MySQL, PHP and Bootstrap
 ## Languages and Technologies used
 1. HTML5/CSS3
 2. JavaScript (to create dynamically updating content)
-3. Bootstrap (An HTML, CSS, and JS library)
+3. Bootstrap (An HTML, CSS, and JavaScript framework)
 4. XAMPP (A web server by Apache Friends)
 5. PHP
 6. MySQL (An RDBMS that uses SQL)
