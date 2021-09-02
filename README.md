@@ -224,7 +224,7 @@ Updates to this Project will be added here.
 
 ## Document
 
-[Click Here to Download Project Report](https://github.com/rahullgupta/CoviTech/Final.Report.pdf)
+[Click Here to Download Project Report](https://github.com/rahullgupta/CoviTech/blob/main/Final%20Report.pdf)
 
 ## License
 
