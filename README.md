@@ -224,7 +224,7 @@ Updates to this Project will be added here.
 
 ## Document
 
-[Click Here to Download Project Report](https://github.com/shikhar321/TEST-FOR-IMAGES/files/6913022/Final.Report.Group.12.pdf)
+[Click Here to Download Project Report](https://github.com/rahullgupta/CoviTech/Final.Report.pdf)
 
 ## License
 
