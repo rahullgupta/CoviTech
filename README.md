@@ -1,7 +1,7 @@
 # CoviTech
 # A website which provides necessary information regarding Covid and also helps in shopping for Covid Essentials
 
-E-Commerce Website made using MySQL, PHP, HTML, CSS, JavaScript and Bootstrap
+Website made using MySQL, PHP, HTML, CSS, JavaScript and Bootstrap
 
 ## Need to work on:
 
