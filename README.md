@@ -222,10 +222,6 @@ The Admin needs to enter the Username and Password and then click on "Add Admin"
 
 Updates to this Project will be added here.
 
-## Document
-
-[Click Here to Download Project Report](https://github.com/rahullgupta/CoviTech/blob/main/Final%20Report.pdf)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
